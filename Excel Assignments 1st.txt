@@ -1,0 +1,33 @@
+(1)What do you mean by cells in an Excel sheet?
+   Cells are the basic building blocks of an Excel worksheet.
+   They are the individual boxes where you can enter and manipulate data. 
+   Each cell is identified by a unique combination of its column letter and row number, such as A1, B2, etc.
+ 
+(2)How can you restrict someone from copying a cell from your worksheet?
+   You can restrict copying cells by protecting the worksheet and then specifying which cells should be locked.
+   You can do this by selecting the cells you want to protect, 
+   right-clicking, choosing "Format Cells," going to the "Protection" tab, and checking the "Locked" checkbox. 
+   Then, protect the worksheet by going to the "Review" tab and clicking on "Protect Sheet." 
+   You can set a password to prevent others from unprotecting the sheet without authorization.
+
+(3)How to move or copy the worksheet into another workbook?
+   To move or copy a worksheet into another workbook, right
+  -click on the worksheet tab you want to move or copy,
+  then select "Move or Copy" from the context menu. 
+  In the dialog box that appears, choose the workbook you want to move or copy the worksheet to,
+  and select whether you want to create a copy or move the worksheet. Click "OK" to complete the process.
+
+(4)Which key is used as a shortcut for opening a new window document?
+   The shortcut key for opening a new window document in Excel is Ctrl + N.
+   
+(5)What are the things that we can notice after opening the Excel interface?
+   After opening the Excel interface, you'll typically see a blank worksheet with a grid of cells,
+   a ribbon at the top containing various tabs (such as Home, Insert, Formulas, etc.), 
+   and a formula bar where you can enter or edit cell contents.
+   You may also see column letters and row numbers to help you navigate the worksheet.
+(6)When to use a relative cell reference in Excel?
+ Relative cell references are used when you want a formula to adjust its reference based on its position when copied or filled.
+ For example, if you have a formula in cell A1 that references cell B1 (=B1), when you copy this formula to cell A2, 
+ it will automatically adjust to reference cell B2 (=B2).
+ Relative references are useful when you need formulas to dynamically change based on their location within the worksheet.
+
